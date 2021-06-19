@@ -1,6 +1,6 @@
 version="1";
-libs=["https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/s003yi8j/build/phaser-ads.min.js",
-"https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/s003yi8j/build/phaser-cachebuster.min.js",
-"https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/s003yi8j/build/phaser-spine.min.js",
-"https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/s003yi8j/build/phaser-super-storage.min.js",
-"https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/refresh=3600&container=enterprise/https://sites.google.com/site/s003yi8j/build/1splash.min.js"];
+libs=["https://cdn.jsdelivr.net/gh/r3tq6l1/gmsdk@main/pr/phaser-ads.min.js",
+"https://cdn.jsdelivr.net/gh/r3tq6l1/gmsdk@main/pr/phaser-cachebuster.min.js",
+"https://cdn.jsdelivr.net/gh/r3tq6l1/gmsdk@main/pr/phaser-spine.min.js",
+"https://cdn.jsdelivr.net/gh/r3tq6l1/gmsdk@main/pr/phaser-super-storage.min.js",
+"https://cdn.jsdelivr.net/gh/r3tq6l1/gmsdk@main/pr/1splash.min.js"];
